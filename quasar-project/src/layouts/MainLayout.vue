@@ -95,6 +95,12 @@ const linksList = [
     caption: 'Community Quasar projects',
     icon: 'favorite',
     link: 'https://awesome.quasar.dev'
+  },
+  {
+    title: 'Unos Page',
+    caption: 'unos.page',
+    icon: 'pageview',
+    link: '#unospage'
   }
 ]
 
