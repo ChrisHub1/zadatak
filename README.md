@@ -19,3 +19,5 @@ git commit -m ""
 git push
 
 SELECT * FROM stavke WHERE racun = '5'
+
+test
